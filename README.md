@@ -13,8 +13,8 @@ My personal C codebase. My goal for was to learn the C language as well as other
 
 ## Features / TODOs
 
-- [ ] Logging / Testing
-- [ ] Exceptions
+- [x] [Logging](https://myrepos.xyz/Randy-Jordan/logd)
+- [x] [Exceptions](https://myrepos.xyz/Randy-Jordan/except)
 - [ ] Memory
 - [ ] Arenas
 - [ ] Singly Linked Lists
